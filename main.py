@@ -15,7 +15,7 @@ from datetime import datetime
 def signIn(meeting_id,password):
 
     #Open's Zoom Application from the specified location
-    os.startfile("C:/Users/facadmin1/AppData/Roaming/Zoom/bin/Zoom.exe")
+    os.startfile("C:\Users\jeromy\AppData\Roaming\Zoom\bin\Zoom.exe")
     time.sleep(3)
 
     #Click's join button
